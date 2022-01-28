@@ -1,0 +1,236 @@
+[
+  {
+    "alphabet": "Aa",
+    "examples": [
+      "Apple"
+    ],
+    "images": [
+      "a.png"
+    ]
+  },
+  {
+    "alphabet": "Bb",
+    "examples": [
+      "Butterfly"
+    ],
+    "images": [
+      "b.png"
+    ]
+  },
+  {
+    "alphabet": "Cc",
+    "examples": [
+      "Cat"
+    ],
+    "images": [
+      "c.png"
+    ]
+  },
+  {
+    "alphabet": "Dd",
+    "examples": [
+      "Dog"
+    ],
+    "images": [
+      "d.png"
+    ]
+  },
+  {
+    "alphabet": "Ee",
+    "examples": [
+      "Elephant"
+    ],
+    "images": [
+      "e.png"
+    ]
+  },
+  {
+    "alphabet": "Ff",
+    "examples": [
+      "Flower"
+    ],
+    "images": [
+      "f.png"
+    ]
+  },
+  {
+    "alphabet": "Gg",
+    "examples": [
+      "Grapes"
+    ],
+    "images": [
+      "g.png"
+    ]
+  },
+  {
+    "alphabet": "Hh",
+    "examples": [
+      "House"
+    ],
+    "images": [
+      "h.png"
+    ]
+  },
+  {
+    "alphabet": "Ii",
+    "examples": [
+      "Ice-cream"
+    ],
+    "images": [
+      "i.png"
+    ]
+  },
+  {
+    "alphabet": "Jj",
+    "examples": [
+      "Jellyfish"
+    ],
+    "images": [
+      "j.png"
+    ]
+  },
+  {
+    "alphabet": "Kk",
+    "examples": [
+      "Kite"
+    ],
+    "images": [
+      "k.png"
+    ]
+  },
+  {
+    "alphabet": "Ll",
+    "examples": [
+      "Lion"
+    ],
+    "images": [
+      "l.png"
+    ]
+  },
+  {
+    "alphabet": "Mm",
+    "examples": [
+      "Moon"
+    ],
+    "images": [
+      "m.png"
+    ]
+  },
+  {
+    "alphabet": "Nn",
+    "examples": [
+      "Nest"
+    ],
+    "images": [
+      "n.png"
+    ]
+  },
+  {
+    "alphabet": "Oo",
+    "examples": [
+      "Orange"
+    ],
+    "images": [
+      "o.png"
+    ]
+  },
+  {
+    "alphabet": "Pp",
+    "examples": [
+      "Panda"
+    ],
+    "images": [
+      "p.png"
+    ]
+  },
+  {
+    "alphabet": "Qq",
+    "examples": [
+      "Queen"
+    ],
+    "images": [
+      "q.png"
+    ]
+  },
+  {
+    "alphabet": "Rr",
+    "examples": [
+      "Rainbow"
+    ],
+    "images": [
+      "r.png"
+    ]
+  },
+  {
+    "alphabet": "Ss",
+    "examples": [
+      "Sun"
+    ],
+    "images": [
+      "s.png"
+    ]
+  },
+  {
+    "alphabet": "Tt",
+    "examples": [
+      "Tree"
+    ],
+    "images": [
+      "t.png"
+    ]
+  },
+  {
+    "alphabet": "Uu",
+    "examples": [
+      "Umbrella"
+    ],
+    "images": [
+      "u.png"
+    ]
+  },
+  {
+    "alphabet": "Vv",
+    "examples": [
+      "Vase"
+    ],
+    "images": [
+      "v.png"
+    ]
+  },
+  {
+    "alphabet": "Ww",
+    "examples": [
+      "Watermelon"
+    ],
+    "images": [
+      "w.png"
+    ]
+  },
+  {
+    "alphabet": "Xx",
+    "examples": [
+      "Xylophone"
+    ],
+    "images": [
+      "x.png"
+    ]
+  },
+  {
+    "alphabet": "Yy",
+    "examples": [
+      "Yatch"
+    ],
+    "images": [
+      "y.png"
+    ]
+  },
+  {
+    "alphabet": "Zz",
+    "examples": [
+      "Zip"
+    ],
+    "images": [
+      "z.png"
+    ]
+  }
+]
